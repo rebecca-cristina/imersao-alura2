@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-<a href="#star"><img src="https://img.shields.io/github/gist/stars/imersao_alura?style=social" ></a>
+<a href="#star"><img src="https://img.shields.io/github/gist/stars/imersao-alura2?style=social" ></a>
 <a href="#follow"><img src="https://img.shields.io/github/followers/rebecca-cristina?style=social" ></a>
 </p>
 
